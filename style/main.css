@@ -3,8 +3,8 @@ html,
 body {
 	margin: 0;
 	padding: 0;
-	background: #faf8ef;
-	color: #776e65;
+	background: #292929;
+	color: #d1d1d1;
 	font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
 	font-size: 18px;
 }
@@ -126,7 +126,7 @@ p {
 }
 
 a {
-	color: #776e65;
+	color: #ffffff;
 	font-weight: bold;
 	text-decoration: underline;
 	cursor: pointer;
@@ -218,6 +218,7 @@ hr {
 	height: 60px;
 	line-height: 60px;
 	margin-top: 222px;
+	color: #5b5b5b;
 }
 .game-container .game-message .lower {
 	display: block;
@@ -225,7 +226,7 @@ hr {
 }
 .game-container .game-message a {
 	display: inline-block;
-	background: #8f7a66;
+	background: #777777;
 	border-radius: 3px;
 	padding: 0 20px;
 	text-decoration: none;
@@ -661,7 +662,7 @@ hr {
 
 .restart-button {
 	display: inline-block;
-	background: #8f7a66;
+	background: #777777;
 	border-radius: 3px;
 	padding: 0 20px;
 	text-decoration: none;
