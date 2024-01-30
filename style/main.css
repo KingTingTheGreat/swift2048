@@ -403,33 +403,40 @@ hr {
 	z-index: 10;
 	font-size: 55px;
 }
+/* debut */
 .tile.tile-2 .tile-inner {
-	background: #eee4da;
+	background: #97d08f;
 	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
 }
+/* fearless */
 .tile.tile-4 .tile-inner {
-	background: #ede0c8;
+	background: #f2c075;
 	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
 }
+/* speak now */
 .tile.tile-8 .tile-inner {
 	color: #f9f6f2;
-	background: #f2b179;
+	background: #d08bd2;
 }
+/* red */
 .tile.tile-16 .tile-inner {
 	color: #f9f6f2;
-	background: #f59563;
+	background: #fc4141;
 }
+/* 1989 */
 .tile.tile-32 .tile-inner {
 	color: #f9f6f2;
-	background: #f67c5f;
+	background: #b5e9f6;
 }
+/* reputation */
 .tile.tile-64 .tile-inner {
 	color: #f9f6f2;
-	background: #f65e3b;
+	background: #434343;
 }
+/* lover */
 .tile.tile-128 .tile-inner {
 	color: #f9f6f2;
-	background: #edcf72;
+	background: #ffb2c6;
 	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
 	font-size: 45px;
 }
@@ -438,9 +445,10 @@ hr {
 		font-size: 25px;
 	}
 }
+/* folklore */
 .tile.tile-256 .tile-inner {
 	color: #f9f6f2;
-	background: #edcc61;
+	background: #afafaf;
 	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
 	font-size: 45px;
 }
@@ -449,9 +457,10 @@ hr {
 		font-size: 25px;
 	}
 }
+/* evermore */
 .tile.tile-512 .tile-inner {
 	color: #f9f6f2;
-	background: #edc850;
+	background: #b1662f;
 	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
 	font-size: 45px;
 }
@@ -460,9 +469,10 @@ hr {
 		font-size: 25px;
 	}
 }
+/* surprise */
 .tile.tile-1024 .tile-inner {
 	color: #f9f6f2;
-	background: #edc53f;
+	background: #df3bcb;
 	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
 	font-size: 35px;
 }
@@ -473,7 +483,7 @@ hr {
 }
 .tile.tile-2048 .tile-inner {
 	color: #f9f6f2;
-	background: #edc22e;
+	background: #ff2f94;
 	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
 	font-size: 35px;
 }
